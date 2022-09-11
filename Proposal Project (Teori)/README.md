@@ -19,3 +19,4 @@ MyWallet adalah aplikasi berbasis web yang dapat membantu penggunanya untuk mela
 ## 📃 Struktur Data
 
 ## 💻 UX Wireframe
+![MyWallet01](https://user-images.githubusercontent.com/112860202/189522797-957e5196-a4ac-465f-a3fa-f223760c63c9.jpg)
