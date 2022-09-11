@@ -11,6 +11,7 @@ MyWallet adalah aplikasi berbasis web yang dapat membantu penggunanya untuk mela
 
 ## 📑 Use Case
 * User dapat melakukan registrasi dan login
+* User dapat memasukkan pemasukan per bulannya
 * User dapat melakukan perencaan budget keuangan bulanan
 * User dapat memasukkan pengeluaran harian
 * User dapat melihat laporan keuangan per bulannya
