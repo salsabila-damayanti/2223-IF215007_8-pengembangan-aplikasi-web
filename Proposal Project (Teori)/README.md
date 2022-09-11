@@ -10,7 +10,10 @@ MyWallet adalah aplikasi berbasis web yang dapat membantu penggunanya untuk mela
 * Membuat aplikasi yang dapat memberikan notifikasi kepada penggunanya apabila pengeluaran telah melebihi anggaran budget yang telah ditentukan
 
 ## 📑 Use Case
-* 
+* User dapat melakukan registrasi dan login
+* User dapat melakukan perencaan budget keuangan bulanan
+* User dapat memasukkan pengeluaran harian
+* User dapat melihat laporan keuangan per bulannya
 
 ## 📃 Struktur Data
 
