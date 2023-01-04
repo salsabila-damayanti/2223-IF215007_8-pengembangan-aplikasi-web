@@ -18,7 +18,7 @@ Browser API - Event Handling, Local Storage, Element manipulation |
 HTTP GET & POST using Form Action and Fetch API | ![image](https://user-images.githubusercontent.com/112860202/210160505-8d5ce4ab-e611-4894-8745-76fd9989e4ed.png) ![image](https://user-images.githubusercontent.com/112860202/210160512-88dbafa4-bd1f-46de-b5da-1326c4283c5b.png)
 PHP DB - Dynamic Web Page |
 Javascript DB - Web Service | ![image](https://user-images.githubusercontent.com/112860202/210160428-d581dd4e-8a31-4c3d-8a32-e18674b153df.png)
-OOP-based PHP Project using Composer |
+OOP-based PHP Project using Composer | ![image](https://user-images.githubusercontent.com/112860202/210665229-9767b1e2-0b8e-413a-9699-a872cd76befb.png)
 Deploy PHP Project to Cpanel |
 HTML Responsive Layout with Bootstrap |
 Single Page App with React & React-router |
