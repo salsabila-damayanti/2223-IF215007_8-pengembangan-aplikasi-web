@@ -14,7 +14,7 @@ Cpanel operation |
 Domain registration |
 HTML Responsive Layout with Media Query & Flexbox |
 Javascript Data Transformation | ![image](https://user-images.githubusercontent.com/112860202/210160360-dcf312b1-1640-4096-a7a8-21bb69780ee3.png) ![image](https://user-images.githubusercontent.com/112860202/210161110-29ad4bdf-8544-45d1-b381-23b67f60d0f1.png)
-Browser API - Event Handling, Local Storage, Element manipulation |
+Browser API - Event Handling, Local Storage, Element manipulation | ![image](https://user-images.githubusercontent.com/112860202/210672501-7e001bca-26dd-4397-bbcc-b42b62cc237e.png)
 HTTP GET & POST using Form Action and Fetch API | ![image](https://user-images.githubusercontent.com/112860202/210160505-8d5ce4ab-e611-4894-8745-76fd9989e4ed.png) ![image](https://user-images.githubusercontent.com/112860202/210160512-88dbafa4-bd1f-46de-b5da-1326c4283c5b.png)
 PHP DB - Dynamic Web Page |
 Javascript DB - Web Service | ![image](https://user-images.githubusercontent.com/112860202/210160428-d581dd4e-8a31-4c3d-8a32-e18674b153df.png)
